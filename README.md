@@ -1,16 +1,19 @@
 # flutter_sample_animation
 
-A new Flutter project.
+`CustomPainter` と `AnimationController` を使用したアニメーションのサンプルプロジェクト。
 
-## Getting Started
+## セットアップ
 
-This project is a starting point for a Flutter application.
+[FVM](https://fvm.app/) を用いてバージョンを管理する。
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+$ git clone https://github.com/takashi0602/flutter_sample_animation.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+$ cd flutter_sample_animation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+$ fvm use 3.24.3
+
+$ flutter pub get
+
+$ flutter run
+```
