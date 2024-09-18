@@ -2,6 +2,8 @@
 
 `CustomPainter` と `AnimationController` を使用したアニメーションのサンプルプロジェクト。
 
+[デモ動画](video/star-path-animation.mp4)
+
 ## セットアップ
 
 [FVM](https://fvm.app/) を用いてバージョンを管理する。
